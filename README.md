@@ -1,0 +1,2 @@
+# MITK-Sample
+Training content
